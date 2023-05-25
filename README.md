@@ -18,6 +18,7 @@ root
 │   ├── render0.jpg
 │   ├── render1.jpg
 │   └── render2.jpg
+│   └── render3.jpg
 ├── Makefile
 └── src
     ├── libs              // diretório contendo as libs código principal
