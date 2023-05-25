@@ -4,9 +4,10 @@
 aqui estão alguns exemplos de imagens renderizadas por este ray tracer:
 
 <p float="left">
-    <img src="img/render0.jpg" style="width: 33%">
-    <img src="img/render1.jpg" style="width: 33%">
-    <img src="img/render2.jpg" style="width: 33%">
+    <img src="img/render0.jpg" style="width: 40%">
+    <img src="img/render1.jpg" style="width: 40%">
+    <img src="img/render2.jpg" style="width: 40%">
+    <img src="img/render3.jpg" style="width: 40%">
 </p>
 
 # estrututa do diretório
