@@ -1,5 +1,13 @@
 # C-ray-tracer
-ray tracer feito puramente em C
+**este ray tracer é feito puramente em C, fiz este projeto para aprender mais sobre como os ray tracers funcionam.**
+
+aqui estão alguns exemplos de imagens renderizadas por este ray tracer:
+
+<p float="left">
+    <img src="img/render0.jpg" style="width: 33%">
+    <img src="img/render1.jpg" style="width: 33%">
+    <img src="img/render2.jpg" style="width: 33%">
+</p>
 
 # estrututa do diretório
 ```
