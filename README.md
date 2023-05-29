@@ -10,6 +10,9 @@ aqui estão alguns exemplos de imagens renderizadas por este ray tracer:
     <img src="img/render3.jpg" style="width: 40%">
 </p>
 
+aqui está um exemplo de vídeo renderizado ultilizando este ray tracer:
+<a href="https://github.com/joao-g33/C-ray-tracer/blob/main/render.mp4">assita ao video</a>
+
 # estrututa do diretório
 ```
 root
