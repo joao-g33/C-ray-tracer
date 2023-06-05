@@ -1,4 +1,4 @@
-# C-ray-tracer
+# ray tracer feito em C
 **este ray tracer é feito puramente em C, fiz este projeto para aprender mais sobre como os ray tracers funcionam.**
 
 aqui estão alguns exemplos de imagens renderizadas por este ray tracer:
