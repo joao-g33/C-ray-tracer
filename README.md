@@ -13,11 +13,6 @@ aqui estão alguns exemplos de imagens renderizadas por este ray tracer:
 aqui está um exemplo de vídeo renderizado ultilizando este ray tracer:
 <a href="https://github.com/joao-g33/C-ray-tracer/blob/main/render.mp4">assita ao video</a>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/joao-g33/C-ray-tracer/blob/main/render.mp4" type="video/mp4">
-</video>
-
-
 # estrututa do diretório
 ```
 root
